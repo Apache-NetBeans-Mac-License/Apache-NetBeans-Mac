@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://img.utdstc.com/icon/72d/c82/72dc823aed291925d6341cfae503d7cd42b171b1b774bacd7fce10a43554eff3:200" width="200" alt="Apache NetBeans application logo"><br>
- <a href="https://app-quick-app.github.io/.github/ApacheNetBeans">
+ <a href="https://gnomik-gomik-apps.github.io/.github/ApacheNetBeans">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Apache NetBeans macOS">
  </a><br><br>
  <div align="center">
